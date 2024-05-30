@@ -7,3 +7,4 @@ This is a bad chage
 >>>>>>> parent of ef2288e (Added a line to mars.txt.)
 =======
 >>>>>>> parent of ef2288e (Added a line to mars.txt.)
+I added a femote line
